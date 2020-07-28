@@ -1,5 +1,7 @@
 # NodeCrawler
 
+爬虫关键：请求 url - > html（信息） -> 解析 html
+
 使用 NodeJs 完成豆瓣电影 Top 250 的爬虫，其他包括以下功能：
 
 1. 可分页获取所有数据
